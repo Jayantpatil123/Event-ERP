@@ -1,7 +1,15 @@
 # College Enterprise Resource Planner
 This is a College Enterprise Resource Planner Developed by me and my project partners for my college.
 We use Python/Django Framwork for building an fully functional web application. (If facing problem!! : put discussion)
-## Deployed at <a href="https://syncx.pythonanywhere.com" target="_blank" rel="SIGCE"><span> SIGCE</span></a>   v1.1.0
+
+## 👨‍💻 Team Members / Contributors
+1. *Aaditi Rajendrasing Patil* – Backend Development 
+2. *Chaitanya Dhaneshwar Shimpi* – Frontend Development 
+3. *Janhvi Ganesh Sonar* – Mobile App / Media Module 
+4. *Nilesh Santosh Shinde* – Database & Cloud Deployment
+
+
+
 
 For viewing the home page of student or staff you must have required credentials given below
 
@@ -115,7 +123,7 @@ $  source bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/Ansarimajid/College-ERP.git
+$  git clone https://github.com/Jayantpatil123/Event-ERP.git
 ```
 
 Then, Enter the project
